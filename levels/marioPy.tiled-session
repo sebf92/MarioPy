@@ -1,0 +1,160 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level2.tmx",
+    "expandedProjectPaths": [
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level1.tmx": {
+            "scale": 1.4306547619047618,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 300.9111712086541,
+                "y": 239.75036405242355
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level1.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level2.tmx": {
+            "scale": 1.6794642857142856,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 257.5225943646996,
+                "y": 229.23976608187135
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level2.tmx#sprites": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 290,
+                "y": 160.66666666666669
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#background": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#ground1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#ground2": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#nuages": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#tree1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx#tree2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/test.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1144.75,
+                "y": 1189.25
+            }
+        },
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/tileset2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "level1.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1406.5,
+                "y": 112
+            }
+        },
+        "level1.tmx#Animated Tiles": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#background": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#boo": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#ground1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#ground2": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#mario": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#nuages": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#pieu": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#pipe": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#tortue": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#tree1": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "level1.tmx#tree2": {
+            "scaleInDock": 1
+        },
+        "level1.tmx#water": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/sprites",
+    "map.height": 24,
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "map.tileHeight": 20,
+    "map.tileWidth": 42,
+    "map.width": 15,
+    "openFiles": [
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level1.tmx",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level2.tmx"
+    ],
+    "project": "marioPy.tiled-project",
+    "recentFiles": [
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level1.tmx",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/ArkanoPy/levels/level2.tmx",
+        "level1.tmx",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/perso/sfaivre/Tiled/mario1.tmx",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/test.tmx",
+        "C:/Users/sfaivre/OneDrive - BRAINWAVE/Mes Documents/tileset2.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 90,
+        "width": 40
+    },
+    "tileset.useTransparentColor": false
+}
